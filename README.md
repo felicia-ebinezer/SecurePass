@@ -22,7 +22,7 @@ Libraries:
 re (for pattern matching)
 string
 tkinter (if GUI used)
----
+
 ## 📂 Project Structure
 
 ```
