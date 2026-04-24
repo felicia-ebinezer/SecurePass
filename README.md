@@ -1,7 +1,7 @@
 
-🔐SECUREPASS
+🔐SecurePass
 ---
-ecurePass is a Python-based application that allows users to check the strength of their passwords. It analyzes passwords based on multiple security criteria and provides feedback to help users create stronger and more secure passwords.
+SecurePass is a Python-based application that allows users to check the strength of their passwords. It analyzes passwords based on multiple security criteria and provides feedback to help users create stronger and more secure passwords.
 
 🚀 Features
 ---
