@@ -2,7 +2,7 @@
 🔐SECUREPASS
 ---
 ecurePass is a Python-based application that allows users to check the strength of their passwords. It analyzes passwords based on multiple security criteria and provides feedback to help users create stronger and more secure passwords.
----
+
 🚀 Features
 ---
 - Password strength analysis
@@ -41,19 +41,14 @@ SecurePass/
 ```
 ⚙️ Installation & Setup
 ---
-1️⃣ Clone the Repository
----
-git clone https://github.com/your-username/securepass.git
-cd securepass
----
 2️⃣ Install Dependencies
 ---
 pip install -r requirements.txt
----
+
 3️⃣ Run the Program
 ---
 python main.py
----
+
 🧪 Usage
 ---
 - Run the application
